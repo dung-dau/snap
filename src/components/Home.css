@@ -1,0 +1,28 @@
+.side-image {
+  height: 750px;
+}
+
+.container {
+  display: flex;
+}
+
+.home-left {
+  width: 35%;
+  margin-top: 50px;
+  padding-left: 250px;
+  whitespace: pre-line;
+}
+
+.home-left h1 {
+  font-size: 100px;
+}
+
+.home-left pre {
+  font-size: 20px;
+}
+
+.home-right {
+  width: 65%;
+  padding-left: 250px;
+  margin-top: 50px;
+}
